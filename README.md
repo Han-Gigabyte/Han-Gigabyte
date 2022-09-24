@@ -3,7 +3,7 @@
 </br>
 </br>
 </br>
-<img src="https://user-images.githubusercontent.com/64648542/188488640-bc6e4913-be16-40aa-96eb-b0ab7e4582ad.gif" height="50" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1000&pause=1000&color=F70000&background=FF230D00&center=true&vCenter=true&width=330&lines=I+am+from+Korea!;I+like+Computers!)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/64648542/188488640-bc6e4913-be16-40aa-96eb-b0ab7e4582ad.gif" height="50" width="50">
+<img src="https://user-images.githubusercontent.com/64648542/188488640-bc6e4913-be16-40aa-96eb-b0ab7e4582ad.gif" height="50" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=40&duration=1000&pause=1000&color=F70000&background=FF230D00&center=true&vCenter=true&width=330&lines=I+am+new+Here!;I+like+Computers!)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/64648542/188488640-bc6e4913-be16-40aa-96eb-b0ab7e4582ad.gif" height="50" width="50">
 
 </br>
 
@@ -13,7 +13,7 @@
 <summary>자세히 / 간단히</summary>
 <div markdown="1">
 
-숨어있던 커비 등장!
+가짜 개발자 화이팅!
 </div>
 </details>
 
