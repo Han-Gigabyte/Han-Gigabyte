@@ -13,7 +13,7 @@
 <summary>자세히 / 간단히</summary>
 <div markdown="1">
 
-가짜 개발자 화이팅!
+가짜 개발자 화이팅! <br>
 프로그래밍 너무 재밌어
 </div>
 </details>
